@@ -3,8 +3,8 @@ layout: default
 ---
 
 # [](#header-1) Algorithms
-- Graph Theory
-    - [Articulation Point/Bridge](articulation.md)
+- **Graph Theory**
+    - [Articulation Point, Bridge](articulation.md)
 
 
 
