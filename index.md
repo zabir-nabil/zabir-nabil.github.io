@@ -23,7 +23,7 @@ layout: default
 
 # [](#header-1) Machine Learning
 - **Notebook**
-     - [Jupyter Notebook](Our_first_notebook.md)
+     - [Python Intro](python-intro.md)
 
 
 
