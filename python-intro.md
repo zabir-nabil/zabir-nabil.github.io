@@ -1,4 +1,6 @@
-
+> I took a class back in November, 2017 on introductory python @ Fab Lab KUET
+> This is a summary of the things I covered. 
+> https://github.com/zabir-nabil/fab-lab-python-intro-workshop (in case you want to visit the github repo I created for the workshop!)
 
 ```python
 print("Hi there, Python 3")     # How to print something?
@@ -537,3 +539,7 @@ elif len(s_.argv) == 3:
 
 <img src="cl8.png" alt="CL" style="width: 500px;"/>
 
+
+
+
+> Existence is pain!
