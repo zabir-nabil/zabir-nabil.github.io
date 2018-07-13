@@ -75,19 +75,21 @@ layout: default
 	 - [Google drive public link generator](https://github.com/zabir-nabil/GDrive-Public-Link-Generation)
      - [Backend synonyms grabber for Alexa skill project](https://github.com/zabir-nabil/syn-crawler)
 	 
-# [](header-2) CP
--- **My CP profile**
+# [](header-1) Profiles
+- **My CP profile**
      - [ACM ICPC Dhaka Regional (2015, 2016, 2017)](https://icpc.baylor.edu/ICPCID/BIKBO2UHPKON)	
-	 
-     - [LightOJ, total AC solutions: 170](http://lightoj.com/volume_userstat.php?user_id=25351)
-	 
-     - [Codechef, max rating: 1966](https://www.codechef.com/users/nabil1997)
-	 
-     - [Kattis](https://open.kattis.com/universities/kuet.ac.bd)
-	 
+	 - [LightOJ, total AC solutions: 170](http://lightoj.com/volume_userstat.php?user_id=25351)
+	 - [Codechef, max rating: 1966](https://www.codechef.com/users/nabil1997)
+	 - [Kattis](https://open.kattis.com/universities/kuet.ac.bd)
 	 - [Light solution insights](https://github.com/zabir-nabil/Competitive-Programming/tree/master/LightOJ)
-	 
 	 - [Competitive Programming GitHub Repo](https://github.com/zabir-nabil/Competitive-Programming)
+
+- **Find me on**
+     - [LinkedIn](https://www.linkedin.com/in/zan0nabil/)
+	 - [YouTube](https://www.youtube.com/channel/UCVaObCskAlvvctDP9vZvW6w?view_as=subscriber)
+	 - [Google Scholar](https://scholar.google.com/citations?user=Fd1-G4YAAAAJ&hl=en)
+
+	 
 	 
 -----------------------------------------------------------------------------
 

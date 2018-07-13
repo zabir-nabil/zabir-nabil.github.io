@@ -14,6 +14,7 @@ layout: default
 
 ### [](#header-3) Intuition behind the algorithm
 
+> Todo
 
 ### [](#header-3) Problems
 
@@ -34,8 +35,16 @@ layout: default
 
 ### [](#header-3) Intuition behind the algorithm
 
+> Todo
 
 ### [](#header-3) Problems
 
 - LightOJ 1026 - Critical Links (`Straightforward Bridge, need to print the bridges in sorted manner [Use set/map]`)
 
+
+
+	 
+-----------------------------------------------------------------------------
+
+
+> We can only see a short distance ahead, but we can see plenty there that needs to be done.
