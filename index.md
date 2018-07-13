@@ -75,6 +75,7 @@ layout: default
 	 - [Google drive public link generator](https://github.com/zabir-nabil/GDrive-Public-Link-Generation)
      - [Backend synonyms grabber for Alexa skill project](https://github.com/zabir-nabil/syn-crawler)
 	 
+# [](header-2) CP
 -- **My CP profile**
      - [ACM ICPC Dhaka Regional (2015, 2016, 2017)](https://icpc.baylor.edu/ICPCID/BIKBO2UHPKON)	
 	 
